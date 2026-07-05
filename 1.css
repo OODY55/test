@@ -57,7 +57,7 @@ transition: transform 0.1s ease, background-color 0.1s ease;
 .low{font-size:18px;
 color:#40e0d0;
 }
-.okey{padding:1px; 
+.okay{padding:1px; 
 color:white;
 background-color:#191970;
 border-radius:5px;
@@ -71,3 +71,8 @@ font-size:18px;}
 
 button:active{transform:scale(0.95);
 opacity:0.75;}
+.arabic{font-size:27px;}
+.notice{background-color:lightseagreen;
+font-size:20px;
+color:azure;
+font-weight:bold;}
