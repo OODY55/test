@@ -57,7 +57,7 @@ transition: transform 0.1s ease, background-color 0.1s ease;
 .low{font-size:18px;
 color:#40e0d0;
 }
-.okay{padding:1px; 
+.okay{padding:3px; 
 color:white;
 background-color:#191970;
 border-radius:5px;
