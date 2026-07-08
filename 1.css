@@ -33,6 +33,7 @@
    font-family:Montserrat,sans-serif;
    font-weight: 300px;
    font-size:30px;
+   text-align:center;
  }
  button{transition: transform 0.1s ease, background-color 0.1s ease;
  display:inline-block;
@@ -45,7 +46,7 @@
     border-radius:30px;
     font-family:montserrat;
 }
-.click_on{background-color:#008888;
+.clickOn{background-color:#008888;
  font-size:20px;
 padding:10px; 
 color:white;
@@ -57,13 +58,13 @@ transition: transform 0.1s ease, background-color 0.1s ease;
 .low{font-size:18px;
 color:#40e0d0;
 }
-.okay{padding:3px; 
+.okay{padding:7px; 
 color:white;
 background-color:#191970;
 border-radius:5px;
 font-size:18px;}
 
-.do{padding:1px; 
+.do{padding:5px; 
 color:white;
 background-color:#191970;
 border-radius:5px;
@@ -75,4 +76,20 @@ opacity:0.75;}
 .notice{background-color:lightseagreen;
 font-size:20px;
 color:azure;
-font-weight:bold;}
+font-weight:bold;
+border: solid 4px black;}
+
+#egypt{color:black;
+padding:10px;
+font-size:15px;
+background-color:#55ffff;
+border:solid 2px black;
+font-weight:80%;
+margin:10px 2px 20px 2px;
+display:block;}
+
+ol{
+font-size:30px;}
+#mylife{font-weight:bold;}
+#routine{direction:rtl;
+text-align:right;}
